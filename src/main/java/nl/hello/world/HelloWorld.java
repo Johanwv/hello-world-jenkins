@@ -4,6 +4,6 @@ public class HelloWorld
 {
     public static void main(String[] vargs)
     {
-        System.out.println("Automatic build");
+        System.out.println("Automatic build test");
     }
 }
